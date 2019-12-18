@@ -1,0 +1,65 @@
+h1, h2, h3, h4, h5, h6{
+  font-family: "Helvetica", sans-serif; 
+  font-size:35px;
+  color: pink
+
+}
+
+h2 {
+  color: pink;
+	font-size: 35px;
+	font-family: Helvetica;
+}
+
+body {
+  color: rgb(10, 10, 10);    
+	background-color: teal;  
+}
+body {
+  font-family: Times, serif;
+	font-family: Arial, sans-serif;
+	font-family: Courier, monospace;
+}
+
+body {
+  color: silver;
+  text-align: center;
+  border: solid;
+  border-color:pink;
+  font-size:25px;
+}
+h1 {
+  color: silver;
+}
+
+img{
+display:block;
+width:auto;
+margin-left:auto;
+margin-right:auto;
+border-radius: 50%
+
+}
+
+
+
+a.bouton2 {
+padding: 15px 40px;
+background: #46a28d;
+color: silver;
+font-weight: bold;
+font-size: 18px;
+}
+a.bouton2 {
+background: #570906;
+color: silver;
+}
+ a {
+  font-size: 60px;
+  text-align: center;
+}
+
+i { width:30%
+}
+
+
